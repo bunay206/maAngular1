@@ -1,0 +1,22 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper > div {
+  width: 100%;
+  max-width: 1000px;
+}
+
+.header {
+  background-color: rgb(60, 60, 196);
+}
+
+.content {
+  background-color: rgb(236, 229, 229);
+}
+
+.footer {
+  background-color: rgb(255, 139, 203);
+}
